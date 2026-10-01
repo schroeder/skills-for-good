@@ -47,20 +47,6 @@ Chat ein und schreibst darunter:
 
 Die KI arbeitet dann nach der Anleitung aus dem Prompt.
 
-### Die `/`-Kurzbefehle
-
-In den Prompts tauchen Kurzbefehle wie `/prisma`, `/grill-mich`,
-`/triff-den-ton` auf. Das ist einfach eine kurze Art, das Werkzeug zu starten,
-statt den ganzen Text zu erklären. Manche Tools erkennen solche Befehle direkt.
-Falls deins das nicht tut, kopierst du einfach den vollen Prompt-Text — das
-Ergebnis ist dasselbe.
-
-| Befehl | Werkzeug | So nutzt du ihn |
-|--------|----------|-----------------|
-| `/prisma` | Prisma | `/prisma` + deine Frage, z. B. `/prisma Wie gewinnen wir neue Mitglieder?` |
-| `/grill-mich` | Grill mich | `/grill-mich` + deine Idee, z. B. `/grill-mich Wir wollen eine jährliche Spendengala einführen.` |
-| `/triff-den-ton` | Triff den Ton | `/triff-den-ton` + 3–5 Links zu euren Texten |
-| `/eingebildert` | Eingebildert | `/eingebildert` + Beschreibung des gewünschten Bildes |
 
 ---
 
@@ -89,6 +75,22 @@ Die genaue Stelle unterscheidet sich je nach Anbieter:
 
 > Tipp: Wenn dein Tool keine Skills kennt, nimm einfach Variante 1 (Prompten).
 > Du kannst den Inhalt einer `SKILL.md` auch direkt in den Chat kopieren.
+
+### Die `/`-Kurzbefehle
+
+In den Prompts tauchen Kurzbefehle wie `/prisma`, `/grill-mich`,
+`/triff-den-ton` auf. Das ist einfach eine kurze Art, das Werkzeug zu starten,
+statt den ganzen Text zu erklären. Manche Tools erkennen solche Befehle direkt.
+Falls deins das nicht tut, kopierst du einfach den vollen Prompt-Text — das
+Ergebnis ist dasselbe.
+
+| Befehl | Werkzeug | So nutzt du ihn |
+|--------|----------|-----------------|
+| `/prisma` | Prisma | `/prisma` + deine Frage, z. B. `/prisma Wie gewinnen wir neue Mitglieder?` |
+| `/grill-mich` | Grill mich | `/grill-mich` + deine Idee, z. B. `/grill-mich Wir wollen eine jährliche Spendengala einführen.` |
+| `/triff-den-ton` | Triff den Ton | `/triff-den-ton` + 3–5 Links zu euren Texten |
+| `/eingebildert` | Eingebildert | `/eingebildert` + Beschreibung des gewünschten Bildes |
+
 
 ---
 
