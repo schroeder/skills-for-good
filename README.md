@@ -24,7 +24,7 @@ Es gibt sie in zwei Varianten:
 |----------|------------------|
 | **Prisma** | Viele ungewöhnliche Ideen zu einer Frage finden — über die naheliegenden hinaus. Gut für Kampagnen, Projekte, Fundraising. |
 | **Grill mich** | Eine Idee oder Entscheidung durch gezielte Rückfragen schärfen. Die KI „grillt" dich, bis der Plan rund ist. |
-| **Triff den Ton** | Aus vorhandenen Texten deinen Schreibstil ableiten und daraus eine Anleitung für Social-Media-Posts bauen. |
+| **Triff den Ton** | Aus vorhandenen Texten deinen Schreibstil ableiten und daraus eine Anleitung für Social-Media-Posts oder Blog-Posts bauen. |
 | **Eingebildert** | Bildideen und fertige Prompts für Bild-KIs erstellen — passend zu deinem Social-Media-Post. |
 
 ---
@@ -80,9 +80,7 @@ Die genaue Stelle unterscheidet sich je nach Anbieter:
 
 In den Prompts tauchen Kurzbefehle wie `/prisma`, `/grill-mich`,
 `/triff-den-ton` auf. Das ist einfach eine kurze Art, das Werkzeug zu starten,
-statt den ganzen Text zu erklären. Manche Tools erkennen solche Befehle direkt.
-Falls deins das nicht tut, kopierst du einfach den vollen Prompt-Text — das
-Ergebnis ist dasselbe.
+statt den ganzen Text zu erklären. 
 
 | Befehl | Werkzeug | So nutzt du ihn |
 |--------|----------|-----------------|
